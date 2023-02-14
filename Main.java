@@ -101,6 +101,7 @@ public class Main {
             scores.remove(greatest);
             greatest = "";
             
+            System.out.println("Have fun!");
         }
         
     }
