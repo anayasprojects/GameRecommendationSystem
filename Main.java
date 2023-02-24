@@ -106,11 +106,11 @@ public class Main {
         
     }
 
-    public static void main(String[] args){
-         Questions questions = new Questions();
-         Main.asking(questions.getQuestions());
-        Main.recommendation();
-        Main.topThree();
-    } 
+    // public static void main(String[] args){
+    //      Questions questions = new Questions();
+    //      Main.asking(questions.getQuestions());
+    //     Main.recommendation();
+    //     Main.topThree();
+    // } 
 
 }

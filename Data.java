@@ -61,3 +61,21 @@ public class Data {
         return data;
     }
 }
+
+
+/* 
+
+Navigate to folder where git is initialized
+Git status
+Git add .
+Git status
+Git commit -m “your message her”
+Git push
+If alternative message shows up, use that
+
+
+cd to enter folder
+ls to list
+cd . (to go back one folder)
+cd .. (to return to home)
+*/
